@@ -1,0 +1,17 @@
+# Output files
+dns_records.csv
+dns_records.json
+dns_records.txt
+dns_records_root_domains.csv
+*.log
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# IDE
+.vscode/
+.idea/
+
+# Claude Code
+.claude/
