@@ -181,4 +181,4 @@ UDFX/
 
 - [MS-DNSP: Domain Name Service Protocol](https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-dnsp/)
 - [AD DNS Record Binary Format](https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-dnsp/f97756c9-3783-428b-9451-b376f877f238)
-- [USFX - Ultimate Subdomain Finder X](https://github.com/sqzer-x/usfx)
+- [USFX - Ultimate Subdomain Finder X](https://github.com/debuman/usfx)
